@@ -1,7 +1,7 @@
 
 # Cryptographic Cut-and-Paste: Bypassing AES-128 ECB Integrity
 
-**University Project | Fondations Of Cybersecurity Laboratory | MSc Cybersecurity**
+**University Project | Foundations Of Cybersecurity Laboratory | MSc Cybersecurity**
 
 A technical analysis and exploitation of AES-128 in Electronic Codebook (ECB) mode. This project demonstrates how the lack of integrity checks in block ciphers allows for surgical ciphertext manipulation (Cut-and-Paste attack) to hijack financial transactions.
 
