@@ -177,10 +177,10 @@ Want to try this attack yourself? You can easily clone the repository and recrea
 
 ```bash
 # Clone the repository
-git clone https://github.com/YourUsername/YourRepositoryName.git
+git clone https://github.com/Giovanni-Del-Bianco/AES-128-ECB-Cut-and-Paste-Attack.git
 
 # Navigate into the project directory
-cd YourRepositoryName
+cd AES-128-ECB-Cut-and-Paste-Attack
 ```
 
 Once cloned, simply follow the compilation commands and the step-by-step execution guide detailed above in this README to manually perform the Cut-and-Paste attack.
